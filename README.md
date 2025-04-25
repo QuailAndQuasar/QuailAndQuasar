@@ -1,5 +1,5 @@
 - I’m @QuailAndQuasar
-- I do Ruby, Python, Bash, Javascript....
+- Ruby, Python, DevOps, Platform Engineering, JS.....etc.
 
 - dmcalerney@gmail.com
 
